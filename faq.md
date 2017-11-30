@@ -61,6 +61,10 @@ Someone in your community or group felt the need to let you know something, and 
 
 You can send questions, comments or issues over at our github repository: https://github.com/numfocus/CFaaS
 </li>
+
+<li>How do I get started?
+  
+  Please follow instructions in our <a href="user_guide.md">user guide.</a>
 </ol>
 
 <img src="Pictures/Full%20Preview.png"/>
