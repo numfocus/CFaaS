@@ -63,3 +63,4 @@ You can send questions, comments or issues over at our github repository: https:
 </li>
 </ol>
 
+<img src="Pictures/Full%20Preview.png"/>
